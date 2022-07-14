@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Dual-degree MSc student at [MINES Paris](https://www.minesparis.psl.eu/) & 
-[ENS Paris-Saclay (Master MVA)](https://www.master-mva.com/), keenly interested in machine learning and its 
-applications to ambitious scientific challenges that combine mathematical modelling and medicine.
+![Education](/images/all-my-schools-2.png)u
+
+I am a research intern in geometric statistics at [Inria](https://www.inria.fr/en), 
+[Epione Team](https://team.inria.fr/epione/en/), formerly dual-degree MSc student at
+[Mines Paris - PSL](https://www.minesparis.psl.eu/) & [ENS Paris-Saclay (Master MVA)](https://www.master-mva.com/)), and
+keenly interested in machine learning and eager to impact the statistical community with new ideas!
 
 I recently started my Master's thesis at INRIA under the supervision of 
 [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/ "Xavier Pennec Home Page"), funded by his ERC 2018
@@ -24,7 +27,5 @@ and open to any opportunity.
 Here is a [link to download my CV](/CV_Tom_Szwagier.pdf).
 
 Please feel free to contact me: [tom.szwagier@inria.fr](mailto:tom.szwagier@inria.fr)
-
-![Education](/images/all-my-schools-2.png)
 
 [//]: # (![Welcome to INRIA](/images/Arrival_INRIA.jpg))
