@@ -26,6 +26,7 @@ In the context of studying the mechanisms by which hippocampal assemblies evolve
 (5 to 12 days), we dispose of some two-photon calcium imaging videos, such as this one:
 
 ![Alt Text](/images/posts/pyamnesia/calcium_imaging.gif)
+
 *A two-photon calcium imaging movie.*
 
 The analysis of these calcium imaging videos may be split into two different parts:
