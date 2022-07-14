@@ -82,9 +82,8 @@ analytics:
 author:
   name             : "Tom Szwagier"
   avatar           : "profile-epione-2.jpg"
-  bio              : "- Research intern in geometric statistics at Inria
-                      - Formerly dual-degree MSc student at Mines Paris - PSL & ENS Paris-Saclay
-                      - Keenly interested in machine learning and eager to impact the statistical community with new ideas!"
+  bio              : "Research intern in geometric statistics at Inria (Epione Team). Dual-degree MSc student at
+                      Mines Paris - PSL & ENS Paris-Saclay (MVA)."
   location         : "Sophia Antipolis, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
