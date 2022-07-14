@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a research intern in geometric statistics at [Inria](https://www.inria.fr/en) 
-([Epione Team](https://team.inria.fr/epione/en/)), formerly dual-degree MSc student at
+([Epione Team](https://team.inria.fr/epione/en/), formerly dual-degree MSc student at
 [Mines Paris - PSL](https://www.minesparis.psl.eu/) & [ENS Paris-Saclay (MVA)](https://www.master-mva.com/)), and
 keenly interested in machine learning and eager to impact the statistical community with new ideas!
 
@@ -27,5 +27,6 @@ Here is a [link to download my CV](/CV_Tom_Szwagier.pdf).
 Please feel free to contact me: tom[dot]szwagier[at]inria.fr
 
 ![Education](/images/all-my-schools.png)
+
 [//]: # (![Education](/images/all-my-schools-photos.png))
 [//]: # (![Welcome to INRIA](/images/Arrival_INRIA.jpg))
