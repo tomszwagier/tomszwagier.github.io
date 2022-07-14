@@ -14,8 +14,9 @@ I am a research intern in geometric statistics at [Inria](https://www.inria.fr/e
 keenly interested in machine learning and eager to impact the statistical community with new ideas!
 
 I recently started my Master's thesis at INRIA under the supervision of 
-[Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/ "Xavier Pennec Home Page"), funded by his ERC 2018
- Advanced Grant *"G-Statistics: Foundations of Geometric Statistics and Their Application in the Life Sciences"*.
+[Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/ "Xavier Pennec Home Page"), funded by his 
+[ERC 2018 Advanced Grant](https://gstats.inria.fr/) *"G-Statistics: Foundations of Geometric Statistics and Their 
+Application in the Life Sciences"*.
 The goal of this internship and the follow-up PhD is to explore, implement and study extensions and applications of
 geometric dimensionality reduction methods from the new point of view of flag manifolds.
 
