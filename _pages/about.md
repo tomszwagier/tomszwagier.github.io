@@ -27,6 +27,5 @@ Here is a [link to download my CV](/CV_Tom_Szwagier.pdf).
 Please feel free to contact me: [tom.szwagier@inria.fr](mailto:tom.szwagier@inria.fr)
 
 ![Education](/images/all-my-schools.png)
-![Education](/images/all-my-schools-photos.png)
-
+[//]: # (![Education](/images/all-my-schools-photos.png))
 [//]: # (![Welcome to INRIA](/images/Arrival_INRIA.jpg))
