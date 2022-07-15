@@ -1,8 +1,8 @@
 ---
-title: 'pyAMNESIA'
-subtitle: 'Work during my research internship at Cossart Lab'
-date: 2022-06-19
-permalink: /posts/2022/06/pyamnesia/
+title: "pyAMNESIA"
+excerpt: "a **py**thon pipeline for analysing the **A**ctivity and **M**orphology of **NE**urons using
+**S**keletonization and other **I**mage **A**nalysis techniques.<br/><img src='/images/portfolio/pyamnesia/calcium_imaging.gif'>"
+collection: portfolio
 tags:
   - neuroscience
   - calcium imaging
@@ -13,11 +13,13 @@ tags:
 **pyAMNESIA** is a **py**thon pipeline for analysing the **A**ctivity and **M**orphology of **NE**urons using
 **S**keletonization and other **I**mage **A**nalysis techniques.
 
-*[Theo Dumont](https://theodumont.github.io/) and I developed this python toolbox during a research internship at
- [CENTURI](https://centuri-livingsystems.org/), [INMED](https://www.inmed.fr/en), 
- [Cossart lab](https://www.inmed.fr/en/developpement-des-microcircuits-gabaergiques-corticaux-en). For more information,
-  you can check the official documentation of our toolbox [pyAMNESIA](https://pyamnesia.readthedocs.io/en/latest
- /overview_introduction.html).*
+*[Théo Dumont](https://theodumont.github.io/) and I developed this python toolbox during a research internship at
+ [INMED](https://www.inmed.fr/en), 
+ [Cossart lab](https://www.inmed.fr/en/developpement-des-microcircuits-gabaergiques-corticaux-en) as part of the 2020
+ [CENTURI](https://centuri-livingsystems.org/) internship program. 
+ For more information, you can check 
+ [pyAMNESIA's documentation](https://pyamnesia.readthedocs.io/en/latest/overview_introduction.html) and 
+ [pyAMNESIA's repository](https://gitlab.com/cossartlab/pyamnesia).*
 
 ---
 
@@ -25,7 +27,7 @@ tags:
 In the context of studying the mechanisms by which hippocampal assemblies evolve during the development of mice 
 (5 to 12 days), we dispose of some two-photon calcium imaging videos, such as this one:
 
-![Alt Text](/images/posts/pyamnesia/calcium_imaging.gif)
+![Alt Text](/images/portfolio/pyamnesia/calcium_imaging.gif)
 
 *A two-photon calcium imaging movie.*
 
@@ -51,18 +53,19 @@ How can we use calcium imaging to get **statistics** on the evolution of interne
 
 We split our approach in three parts:
 
-![Alt Text](/images/posts/pyamnesia/structure.png)
+![Alt Text](/images/portfolio/pyamnesia/structure.png)
 *Structure of the approach*
 
 1. The `skeletonization` module focuses on the **morphological** analysis of the data, by computing the underlying *morphological skeleton* of the sequence.
 2. The`clustering` module performs an **activity analysis** of the elements in the sequence, whether they be pixels (no prior skeleton analysis) or branches (see the module page for more information about this). Its goal is to return clusters of coactive pixels.
 3. The `factorization` module has a similar goal to the clustering module. It returns independent components of **coactive pixels**, but uses **matrix factorization techniques** to do so.
 
-![Alt Text](/images/posts/pyamnesia/output_examples.png)
+![Alt Text](/images/portfolio/pyamnesia/output_examples.png)
 *From left to right: a skeletonized image; a cluster; a factorization component*
 
 Whereas the skeletonization part focuses on the **morphological** aspect of the analysis, both of the clustering and factorization modules tackle the **activity analysis** of it. As shown on the diagram above, the skeleton module is prior to the two others.
 
 ---
-*For more information, you can check the official documentation of our toolbox 
-[pyAMNESIA](https://pyamnesia.readthedocs.io/en/latest/overview_introduction.html).*
+*For more information, you can check 
+[pyAMNESIA's documentation](https://pyamnesia.readthedocs.io/en/latest/overview_introduction.html) and 
+[pyAMNESIA's repository](https://gitlab.com/cossartlab/pyamnesia).*
