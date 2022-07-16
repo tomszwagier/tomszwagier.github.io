@@ -1,7 +1,7 @@
 ---
 title: "Wrapped Gaussian Process Regression on Riemannian Manifolds"
 excerpt: "Implementation in `geomstats` of the paper of Mallasto & Feragen (CVPR 2018) for the ICLR
-2022 Challenge for Computational Geometry and Topology that led Arthur Pignet and I to win the **2nd prize**.<br/><img src='/images/projects/wgpr/wgpr.png'>"
+2022 Challenge for Computational Geometry and Topology that led Arthur Pignet and I to win the 2nd prize.<br/><img src='/images/projects/wgpr/wgpr.png'>"
 collection: projects
 tags:
   - ICLR 2022
