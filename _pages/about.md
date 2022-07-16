@@ -42,7 +42,7 @@ on Riemannian Manifolds (Mallasto & Feragen CVPR 2018)](https://ieeexplore.ieee.
 [Submissions](https://github.com/geomstats/challenge-iclr-2022) / [Post](https://tomszwagier.github.io/projects/wgpr/)
 * **April 2022** -- Joined [Inria](https://www.inria.fr/en) 
 ([Epione Team](https://team.inria.fr/epione/en/)) in Sophia Antipolis for a research internship in geometric statistics 
-under the supervision of [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/)
+under the supervision of [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/).
 * **Feb. 2022** -- The paper ["The rapid developmental rise of somatic inhibition disengages hippocampal dynamics from
  self-motion"](https://www.biorxiv.org/content/10.1101/2021.06.08.447542v2) in which 
 [Théo Dumont](https://theodumont.github.io/) and I contributed with our Python toolbox 
