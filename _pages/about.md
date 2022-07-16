@@ -39,8 +39,7 @@ which [Arthur Pignet](https://www.linkedin.com/in/arthurpignet/) and I participa
 2022 Challenge for Computational Geometry and Topology**. We implemented [Wrapped Gaussian Process Regression 
 on Riemannian Manifolds (Mallasto & Feragen CVPR 2018)](https://ieeexplore.ieee.org/document/8578683) in 
 [`geomstats`](https://github.com/geomstats/geomstats). 
-Links: [Submissions](https://github.com/geomstats/challenge-iclr-2022) / [Post](https://tomszwagier.github.io
-/projects/wgpr/)
+[Submissions](https://github.com/geomstats/challenge-iclr-2022) / [Post](https://tomszwagier.github.io/projects/wgpr/)
 * **April 2022** -- Joined [Inria](https://www.inria.fr/en) 
 ([Epione Team](https://team.inria.fr/epione/en/)) in Sophia Antipolis for a research internship in geometric statistics 
 under the supervision of [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/)
