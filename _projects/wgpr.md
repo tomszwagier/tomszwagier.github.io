@@ -1,0 +1,43 @@
+---
+title: "Wrapped Gaussian Process Regression on Riemannian Manifolds"
+excerpt: "Implementation in `geomstats` of the paper of Mallasto & Feragen (CVPR 2018) for the ICLR
+2022 Challenge for Computational Geometry and Topology that led Arthur Pignet and I to win the **2nd prize (1000$
+)**.<br/><img src='/images/projects/wgpr/wgpr.png'>"
+collection: projects
+tags:
+  - ICLR 2022
+  - Riemannian Geometry
+  - Wrapped Gaussian Process Regression
+  - geomstats
+---
+
+It all began with a Master’s project at MVA with [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/),
+which enabled [Arthur Pignet](https://www.linkedin.com/in/arthurpignet/) and I to meet 
+[Nina Miolane](https://www.ninamiolane.com/), who then encouraged us to submit it to ICLR 2022 Computational 
+Geometry & Topology Challenge.
+
+Our submission implements a method for nonlinear regression on Riemannian manifolds.
+ 
+Although regression for datasets lying on Euclidean spaces is a well-established field, not many methods exist for data 
+on Riemannian manifolds; they are either too simple like 
+[Geodesic Regression (Fletcher IJCV 2013)](https://link.springer.com/article/10.1007/s11263-012-0591-y) or they lack
+interpretability. 
+
+[Gaussian Process Regression](https://distill.pub/2019/visual-exploration-gaussian-processes/) 
+is a well-known nonlinear regression method which incorporates 
+prior knowledge about the data distribution in Euclidean spaces. The paper [Wrapped Gaussian Process Regression 
+on Riemannian Manifolds (Mallasto & Feragen CVPR 2018)](https://ieeexplore.ieee.org/document/8578683) generalize
+it to data lying on Riemannian manifolds using manifold-preserving tools, such as the ones implemented in 
+[`geomstats`](https://github.com/geomstats/geomstats).
+This submission proposes an implementation of the latter's ``Wrapped Gaussian Process Regression" in `geomstats` 
+and shows that it has many advantages over related Euclidean and geodesic models on synthetic examples
+(toy data on a sphere) as well as real life ones (diffusion Tensor Imaging in the corpus callosum).
+
+Here is a small illustration of our implementation on GeomStats for data lying on a sphere. 
+We compared it to Gaussian Processes, and we can clearly see that some of their predictions (in cyan) go out of the 
+sphere, hence don't belong to the data space.
+
+![Alt Text](/images/projects/wgpr/wgpr.png)
+
+*You can find our submission on the 
+[ICLR 202 challenge GitHub repository](https://github.com/geomstats/challenge-iclr-2022).*
