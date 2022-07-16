@@ -35,7 +35,7 @@ News
 * **June 2022** -- The white paper ["ICLR 2022 Challenge for Computational Geometry and Topology: 
 Design and Results"](https://arxiv.org/abs/2206.09048) for the ICLR Geometry workshop in
 which [Arthur Pignet](https://www.linkedin.com/in/arthurpignet/) and I participated is out on arXiv!
-* **May 2022** -- [Arthur Pignet](https://www.linkedin.com/in/arthurpignet/) and I won **2nd prize (1000$) at ICLR
+* **May 2022** -- [Arthur Pignet](https://www.linkedin.com/in/arthurpignet/) and I won **2nd prize at ICLR
 2022 Challenge for Computational Geometry and Topology**. We implemented [Wrapped Gaussian Process Regression 
 on Riemannian Manifolds (Mallasto & Feragen CVPR 2018)](https://ieeexplore.ieee.org/document/8578683) in 
 [`geomstats`](https://github.com/geomstats/geomstats). 
