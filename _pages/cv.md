@@ -40,8 +40,9 @@ Professional experience
     * Lab: [Epione](https://team.inria.fr/epione/en/) – Head: 
     [Nicholas Ayache](https://www-sop.inria.fr/members/Nicholas.Ayache/) – Supervisor: 
     [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/)
-    * The goal of this internship and the follow-up PhD is to explore, implement and study extensions and applications 
-    of geometric dimensionality reduction methods from the new point of view of flag manifolds.
+        * Geometry & Optimization: development of a Riemannian optimization framework on flag manifolds
+        * Code: implementation in geomstats, an open-source Python package for geometric statistics
+        * Results: successful generalization of PCA as a flag optimization
 
 * **[Technion - Israel Institute of Technology](https://www.technion.ac.il/en/home-2/)**, Deep Learning Research
  Intern -- *Haifa, Israel, 2021 (6 months)*
