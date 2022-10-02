@@ -28,7 +28,7 @@ tags:
 In the context of studying the mechanisms by which hippocampal assemblies evolve during the development of mice 
 (5 to 12 days), we dispose of some two-photon calcium imaging videos, such as this one:
 
-![Alt Text](/images/projects/pyamnesia/calcium_imaging.gif)
+![Alt Text](/images/posts/pyamnesia/calcium_imaging.gif)
 
 *A two-photon calcium imaging movie.*
 
@@ -54,14 +54,14 @@ How can we use calcium imaging to get **statistics** on the evolution of interne
 
 We split our approach in three parts:
 
-![Alt Text](/images/projects/pyamnesia/structure.png)
+![Alt Text](/images/posts/pyamnesia/structure.png)
 *Structure of the approach*
 
 1. The `skeletonization` module focuses on the **morphological** analysis of the data, by computing the underlying *morphological skeleton* of the sequence.
 2. The`clustering` module performs an **activity analysis** of the elements in the sequence, whether they be pixels (no prior skeleton analysis) or branches (see the module page for more information about this). Its goal is to return clusters of coactive pixels.
 3. The `factorization` module has a similar goal to the clustering module. It returns independent components of **coactive pixels**, but uses **matrix factorization techniques** to do so.
 
-![Alt Text](/images/projects/pyamnesia/output_examples.png)
+![Alt Text](/images/posts/pyamnesia/output_examples.png)
 *From left to right: a skeletonized image; a cluster; a factorization component*
 
 Whereas the skeletonization part focuses on the **morphological** aspect of the analysis, both of the clustering and factorization modules tackle the **activity analysis** of it. As shown on the diagram above, the skeleton module is prior to the two others.
