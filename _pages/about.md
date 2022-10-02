@@ -32,6 +32,13 @@ Please feel free to contact me: tom[dot]szwagier[at]inria.fr
 
 News
 ======
+* **October 2022** -- Began my PhD at [Inria](https://www.inria.fr/en) with [Xavier Pennec](http://www-sop.inria.fr
+/members/Xavier.Pennec/).
+* **September 2022** -- Defended my Master's thesis in Sophia Antipolis in front of the jury composed of 
+[Stanley Durrleman](https://who.rocq.inria.fr/Stanley.Durrleman/), 
+[Elie Hachem](https://www.minesparis.psl.eu/Services/Annuaire/elie-hachem), 
+[David Ryckelynck](https://matperso.minesparis.psl.eu/Personnel/david.ryckelynck) and
+[Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/).
 * **June 2022** -- The white paper ["ICLR 2022 Challenge for Computational Geometry and Topology: 
 Design and Results"](https://arxiv.org/abs/2206.09048) for the ICLR Geometry workshop in
 which [Arthur Pignet](https://www.linkedin.com/in/arthurpignet/) and I participated is out on arXiv!
