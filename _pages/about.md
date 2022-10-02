@@ -32,6 +32,9 @@ Please feel free to contact me: tom[dot]szwagier[at]inria.fr
 
 News
 ======
+* **October 2022** -- I will participate in the thematic trimester 
+[Geometry and Statistics in Data Sciences](https://indico.math.cnrs.fr/event/6590/) in Institut Henri Poincaré, Paris in
+October. Feel free to discuss with me there!
 * **October 2022** -- Began my PhD at [Inria](https://www.inria.fr/en) with [Xavier Pennec](http://www-sop.inria.fr
 /members/Xavier.Pennec/).
 * **September 2022** -- Defended my Master's thesis in Sophia Antipolis in front of the jury composed of 
