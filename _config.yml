@@ -198,7 +198,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: projects
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -234,7 +234,7 @@ defaults:
   # _projects
   - scope:
       path: ""
-      type: projects
+      type: portfolio
     values:
       layout: single
       author_profile: true
