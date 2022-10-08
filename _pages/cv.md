@@ -35,7 +35,7 @@ Education
 Professional experience
 ======
 * **[Inria](https://www.inria.fr/fr)**, Research Intern in Geometric Statistics -- *Sophia Antipolis, France, 2022
- (in progress)*
+ (6 months)*
     * Rethinking Principal Component Analysis with flag manifolds.
     * Lab: [Epione](https://team.inria.fr/epione/en/) – Head: 
     [Nicholas Ayache](https://www-sop.inria.fr/members/Nicholas.Ayache/) – Supervisor: 
