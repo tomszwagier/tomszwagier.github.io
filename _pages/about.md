@@ -10,7 +10,8 @@ redirect_from:
 
 I am a PhD student in geometric statistics at [Inria](https://www.inria.fr/en) 
 ([Epione Team](https://team.inria.fr/epione/en/)), formerly dual-degree MSc student at
-[Mines Paris - PSL](https://www.minesparis.psl.eu/) and [ENS Paris-Saclay (Master MVA)](https://www.master-mva.com/),
+[Mines Paris - PSL](https://www.minesparis.psl.eu/) and [École
+   Normale Supérieure Paris-Saclay (Master MVA)](https://www.master-mva.com/),
 keenly interested in geometry, statistical learning and eager to impact the community with new
  ideas!
 
