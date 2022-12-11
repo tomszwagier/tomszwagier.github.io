@@ -24,9 +24,9 @@ geometric dimensionality reduction methods from the new point of view of flag ma
 I am always glad to discuss my research or any topic related to applied mathematics, vision and machine learning, 
 and open to any opportunity.
 
-Here is a [link to download my CV](/CV_Tom_Szwagier.pdf).
+Please feel free to contact me by email: tom.szwagier[at]inria.fr
 
-Please feel free to contact me: tom[dot]szwagier[at]inria.fr
+CV: [one-page (PDF)](/files/CV_Tom_Szwagier.pdf) / [more detailed](https://tomszwagier.github.io/cv/)
 
 ![Education](/images/all-my-schools.png)
 
