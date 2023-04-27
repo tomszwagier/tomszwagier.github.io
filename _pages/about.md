@@ -33,9 +33,13 @@ CV: [one-page (PDF)](/files/CV_Tom_Szwagier.pdf) / [more detailed](https://tomsz
 
 News
 ======
-* **October 2022** -- I will participate in the thematic trimester 
+* **April 2023** -- My submission to [GSI'23](https://conference-gsi.org/), entitled "Rethinking the Riemannian logarithm on flag manifolds as an orthogonal alignment problem" has been accepted with oral!
+* **March 2023** -- Attended to [MOMI2023](https://phd-seminars-sam.inria.fr/momi2023-le-monde-des-mathematiques-industrielles-smart-environment/) workshop on Applied and Industrial Mathematics, with a focus on Smart Environment.
+* **March 2023** -- Participated in the Epione team annual retreat in Auron, France.
+* **November 2022** -- Gave a course on Dimension reduction on Riemannian manifolds to Inria Epione team in collaboration with another PhD student.
+* **October 2022** -- Participated in the thematic trimester 
 [Geometry and Statistics in Data Sciences](https://indico.math.cnrs.fr/event/6590/) in Institut Henri Poincaré, Paris in
-October. Feel free to discuss with me there!
+October.
 * **October 2022** -- Began my PhD at [Inria](https://www.inria.fr/en) with [Xavier Pennec](http://www-sop.inria.fr
 /members/Xavier.Pennec/).
 * **September 2022** -- Defended my Master's thesis in Sophia Antipolis in front of the jury composed of 
