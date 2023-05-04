@@ -27,7 +27,7 @@ and open to any opportunity.
 
 Please feel free to contact me by email: tom.szwagier[at]inria.fr
 
-CV: [one-page (PDF)](/files/CV_Tom_Szwagier.pdf) / [more detailed](https://tomszwagier.github.io/cv/)
+[One-page CV (PDF)](/files/CV_Tom_Szwagier.pdf)
 
 ![Education](/images/all-my-schools.png)
 
