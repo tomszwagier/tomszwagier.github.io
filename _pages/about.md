@@ -11,7 +11,7 @@ redirect_from:
 I am a PhD student in geometric statistics at [Inria](https://www.inria.fr/en) 
 ([Epione](https://team.inria.fr/epione/en/) project-team, 
 [G-Statistics](https://gstats.inria.fr/) project), 
-formerly dual-degree MSc student at[Mines Paris - PSL](https://www.minesparis.psl.eu/) 
+formerly dual-degree MSc student at [Mines Paris - PSL](https://www.minesparis.psl.eu/) 
 and [École Normale Supérieure Paris-Saclay (Master MVA)](https://www.master-mva.com/),
 keenly interested in differential geometry, statistics and optimization,
 and eager to impact the machine learning community with new ideas!
@@ -27,9 +27,9 @@ and open to any opportunity.
 
 Please feel free to contact me by email: tom.szwagier[at]inria.fr
 
-[One-page CV (PDF)](/files/CV_Tom_Szwagier.pdf)
+[One-page CV (May 2023)](/files/CV_Tom_Szwagier.pdf)
 
-![Education](/images/all-my-schools.png)
+![Education](/images/all-inria.png)
 
 
 News
