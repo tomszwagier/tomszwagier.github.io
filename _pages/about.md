@@ -9,17 +9,18 @@ redirect_from:
 ---
 
 I am a PhD student in geometric statistics at [Inria](https://www.inria.fr/en) 
-([Epione Team](https://team.inria.fr/epione/en/)), formerly dual-degree MSc student at
-[Mines Paris - PSL](https://www.minesparis.psl.eu/) and [École
-   Normale Supérieure Paris-Saclay (Master MVA)](https://www.master-mva.com/),
-keenly interested in geometry, statistical learning and eager to impact the community with new
- ideas!
+([Epione](https://team.inria.fr/epione/en/) project-team, 
+[G-Statistics](https://gstats.inria.fr/) project), 
+formerly dual-degree MSc student at[Mines Paris - PSL](https://www.minesparis.psl.eu/) 
+and [École Normale Supérieure Paris-Saclay (Master MVA)](https://www.master-mva.com/),
+keenly interested in differential geometry, statistics and optimization,
+and eager to impact the machine learning community with new ideas!
 
 I started my PhD at Inria under the supervision of [Xavier Pennec](http://www-sop.inria.fr/members/Xavier.Pennec/) in
 October 2022, funded by his [ERC 2018 Advanced Grant](https://gstats.inria.fr/) 
 *"G-Statistics: Foundations of Geometric Statistics and Their Application in the Life Sciences"*.
-The goal of the PhD is to explore, implement and study extensions and applications of
-geometric dimensionality reduction methods from the new point of view of flag manifolds.
+The PhD is entitled *"Rethinking statistical methods with flags spaces"* and aims to
+study and extend dimensionality reduction methods from the new point of view of flag manifolds.
 
 I am always glad to discuss my research or any topic related to applied mathematics, vision and machine learning, 
 and open to any opportunity.

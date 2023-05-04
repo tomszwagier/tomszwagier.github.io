@@ -82,12 +82,11 @@ analytics:
 author:
   name             : "Tom Szwagier"
   avatar           : "profile_adstic.jpg"
-  bio              : "PhD Candidate @ Inria. Formerly Mines Paris - PSL & École
-   Normale Supérieure Paris-Saclay (Master MVA)."
+  bio              : "PhD Candidate @ Inria in geometric statistics, rethinking statistical methods with flag manifolds."
   location         : "Sophia Antipolis, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/..."
+  googlescholar    : https://scholar.google.com/citations?user=MYPE4b8AAAAJ&hl=fr
   email            : tom.szwagier@inria.fr
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
