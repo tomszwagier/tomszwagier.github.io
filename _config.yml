@@ -75,19 +75,18 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  "UA-90612705-1"
+    tracking_id          :
 
 
 # Site Author
 author:
   name             : "Tom Szwagier"
-  avatar           : "profile-epione-2.jpg"
-  bio              : "PhD Candidate @ Inria. Formerly Mines Paris - PSL & École
-   Normale Supérieure Paris-Saclay (Master MVA)."
+  avatar           : "profile_adstic.jpg"
+  bio              : "PhD Candidate @ Inria in geometric statistics, rethinking statistical methods with flag manifolds."
   location         : "Sophia Antipolis, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/..."
+  googlescholar    : https://scholar.google.com/citations?user=MYPE4b8AAAAJ&hl=fr
   email            : tom.szwagier@inria.fr
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -314,48 +313,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-scholar:
-  style: _bibliography/ieee-with-url.csl
-  locale: en
-
-  sort_by: year, month
-  order: descending
-  bibliography_list_tag: ul
-
-  # group_by: year
-  group_order: descending
-
-  source: _bibliography
-  # bibliography:
-  bibliography_template: bibtemplate
-
-  replace_strings: true
-  join_strings:    true
-
-  use_raw_bibtex_entry: true
-  bibtex_filters:
-  - superscript
-  - latex
-
-#  details_dir:    publications
-#  details_layout: bibdetail.html
-#  details_link:   ""
-
-  query: "@*"
-  bibtex_skip_fields:
-    - abstract
-    - month_numeric
-    - arxiv
-    - supplements
-    - slides
-    - video
-    - url
-    - pdf
-    - software
-    - data
-    - project
-    - poster
-    - date-added
-    - date-modified
