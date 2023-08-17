@@ -26,7 +26,10 @@ and open to any opportunity.
 
 Here is a [link to download my CV](/CV_Tom_Szwagier.pdf).
 
-Please feel free to contact me: tom[dot]szwagier[at]inria.fr
+Please feel free to contact me: name[dot]surname[at]inria.fr
+
+### This website is outdated. Here is the link to my new website: [https://sites.google.com/view/tomszwagier/](https://sites.google.com/view/tomszwagier/). 
+I will delete this website as soon as all the content is on my new website.
 
 ![Education](/images/all-my-schools.png)
 
