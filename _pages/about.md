@@ -29,8 +29,8 @@ Please feel free to contact me: name[dot]surname[at]inria.fr
 
 [One-page CV (May 2023)](/files/CV_Tom_Szwagier.pdf)
 
-### This website is outdated. Here is the link to my new website: [https://sites.google.com/view/tomszwagier/](https://sites.google.com/view/tomszwagier/). 
-I will delete this website as soon as all the content is on my new website.
+### This website is outdated. New website: [https://sites.google.com/view/tomszwagier/](https://sites.google.com/view/tomszwagier/).
+
 
 ![Education](/images/all-inria.png)
 
